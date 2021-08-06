@@ -1,0 +1,11 @@
+$color--royalblue : royalblue;
+$color--white : #fff;
+
+body{
+  background-color: $color--royalblue;
+  h1{
+    color : $color--white;
+    display : flex;
+    font-size : 40px;
+  }
+}
